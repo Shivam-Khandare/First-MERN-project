@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# VS Code config
+.vscode/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
